@@ -1,5 +1,5 @@
 
-![Php, Laravel Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Php, Laravel Developer](https://github.com/AmjadGhzlangit/AmjadGhzlangit/blob/e8f8919bde1bb1bfb1ce3a79e905d5da6b6f8cde/Amjad%20Ghzlan.jpg)
 
 # Hi there 👋, I'm Amjad Ghzlan
 #### Back-end Developer
